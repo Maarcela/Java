@@ -1,0 +1,39 @@
+public class OlaMundo {
+    // método main inicia a execução do aplicativo Java
+    public static void main(String[] args)
+    {
+        System.out.println("Bem vindo ao IOS!");
+    } // fim do método main
+} // fim da classe OlaMundo
+
+
+public class atividade {
+    // Atividade Java
+    public static void main(String[] args)
+    {
+        System.out.println("Marcela Vitória Santos Castro Silva");
+        System.out.println("São Paulo");
+                System.out.println("Ler");
+    }
+    // atividade 2
+    {
+        System.out.println("21");
+        System.out.println("1.62");
+        System.out.println("Offiline:" + (!true));
+    }
+
+    //Atividade 3
+    {
+        System.out.println((("120 - 30) = (3 ˆ 30"));
+    }
+}
+
+ public class aula1 {
+    // Atividade Java
+    public static void main(String[] args) {
+        System.out.println("Marcela Vitória Santos Castro Silva");
+        System.out.println("São Paulo");
+        System.out.println("Ler");
+    }
+}
+
